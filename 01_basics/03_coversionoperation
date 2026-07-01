@@ -1,0 +1,27 @@
+let score="shivam"
+
+// console.log(typeof score);
+// console.log(typeof(score));
+
+let valueinnumber=Number(score)
+// console.log(typeof valueinnumber);
+// console.log(valueinnumber);
+
+
+//"33=>33"
+//"33abc"=>nan
+//true=>1;false=>0
+
+let isloggedin="shivam"
+
+let booleanisloggedin=Boolean(isloggedin)
+// console.log(booleanisloggedin);
+
+//1=>true;0->false
+//""=>false
+//"shivam"=>true
+
+let somenumber=33
+let Stringnumber=String(somenumber)
+console.log(Stringnumber);
+console.log(typeof Stringnumber);
